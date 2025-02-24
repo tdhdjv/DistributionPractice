@@ -13,4 +13,4 @@
 - the ```add(a, b)``` function that will return the added value of two integer a, b
 
 ## How to Install
--
+```pip install distribution-practice==0.0.1```
