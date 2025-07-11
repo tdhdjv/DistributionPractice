@@ -9,7 +9,7 @@
 - Distrubuting This Library to PyPi
 - Using Pip install in a different folder to use the simple functionality provided.
 
-## What is In this Libarary
+## What is In this Library
 - the ```add(a, b)``` function that will return the added value of two integer a, b
 
 ## How to Install
